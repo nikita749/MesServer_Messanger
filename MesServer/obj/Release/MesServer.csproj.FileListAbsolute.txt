@@ -1,0 +1,7 @@
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\bin\Release\MesServer.exe.config
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\bin\Release\MesServer.exe
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\bin\Release\MesServer.pdb
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Release\MesServer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Release\MesServer.exe
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Release\MesServer.pdb
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Release\MesServer.csproj.AssemblyReference.cache

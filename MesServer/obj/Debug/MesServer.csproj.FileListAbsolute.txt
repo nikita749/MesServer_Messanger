@@ -1,0 +1,14 @@
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Debug\MesServer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\bin\Debug\MesServer.exe.config
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\bin\Debug\MesServer.exe
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\bin\Debug\MesServer.pdb
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Debug\MesServer.exe
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Debug\MesServer.pdb
+C:\Users\Mr.Qw\Documents\програмирование\MesServer\MesServer\obj\Debug\MesServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\bin\Debug\MesServer.exe.config
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\bin\Debug\MesServer.exe
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\bin\Debug\MesServer.pdb
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\obj\Debug\MesServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\obj\Debug\MesServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\obj\Debug\MesServer.exe
+C:\Users\DELL\Documents\f\програмирование\MesServer\MesServer\obj\Debug\MesServer.pdb

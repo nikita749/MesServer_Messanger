@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="168e03118e4f4bb68bd83bbd099cd0dd" Name="Diagram1">
+        <EntityTypeShape EntityType="DB_PROJECTModel.Chats" Width="1.5" PointX="6.875" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_PROJECTModel.Messages" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_PROJECTModel.sysdiagrams" Width="1.5" PointX="1" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_PROJECTModel.Users" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="DB_PROJECTModel.FK_Messages_Chats" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_PROJECTModel.FK_Messages_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_PROJECTModel.FK_Messages_Users1" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DB_PROJECTModel.Users_chat" Width="1.5" PointX="4.75" PointY="4.375" />
+        <AssociationConnector Association="DB_PROJECTModel.FK__Users_cha__chat___5DCAEF64" />
+        <AssociationConnector Association="DB_PROJECTModel.FK__Users_cha__user___5CD6CB2B" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
